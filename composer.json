@@ -1,0 +1,13 @@
+{
+    "name": "net-shell/namecheap-laravel",
+    "authors": [
+        {
+            "name": "ashrain",
+            "email": "ash@netshell.co"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Namecheap": "src/" },
+        "files": ["namecheap/namecheap_api.php"]
+    }
+}
